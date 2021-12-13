@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ovalmoney/react-native-fitness": "^0.5.3"
+  }
+}
